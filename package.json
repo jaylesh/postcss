@@ -111,7 +111,7 @@
       "docs/README-cn.md"
     ],
     "ignoreText": [
-      "\\(by [^ ]+( [^ ]+)*\\)"
+      "\\(by [^ )]+( [^ )]+)*\\)"
     ],
     "ignoreCapitalization": true,
     "dictionary": [
