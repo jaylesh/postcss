@@ -112,7 +112,7 @@
       "docs/README-cn.md"
     ],
     "ignoreText": [
-      "\\(by [^ )]+( [^ )]+)*\\)"
+      " \\(by [^)]+\\)."
     ],
     "dictionary": [
       "6to5",
